@@ -71,4 +71,35 @@ const implemented = {
 };
 ```
 
+### Hubazar eccomerce
 
+<p align='center'>
+  <img alt='pokemon' src='./assets/proyects/home.png' width='33%'>
+  <img alt='pokemon'  src='./assets/proyects/list.png' width='33%'>
+  <img alt='pokemon'  src='./assets/proyects/detail.png' width='33%'>
+</p>
+<p align='center'>
+  <img alt='pokemon' src='./assets/proyects/modal.png' width='33%'>
+  <img alt='pokemon'  src='./assets/proyects/need.png' width='33%'>
+  <img alt='pokemon'  src='./assets/proyects/register.png' width='33%'>
+</p>
+
+### colaborators
+##### front
+##### back
+<a href='https://github.com/jparaducha' target='_blank'><p>jparaducha</p></a>
+
+```javascript
+const implemented = {
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["PostgreSQL"],
+   },
+};
+```
