@@ -28,7 +28,7 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 
 ## :star: Languages and Tools:
 
-<p>
+<p align='center'>
   <img alt='html' src='./assets/icons_tecnologies/html.png' width='15%'>
   <img alt='css'  src='./assets/icons_tecnologies/css.png' width='15%'>
   <img alt='javascript'  src='./assets/icons_tecnologies/js.png' width='15%'>
