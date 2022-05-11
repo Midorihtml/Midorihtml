@@ -46,7 +46,7 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: My projects
 
 #### Pokeapi
 
@@ -61,7 +61,7 @@ const implemented = {
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
-         css
+         css: ["styled components"]
       },
       backEnd: {
          js: ["Node", "Express"]
@@ -98,7 +98,7 @@ const implemented = {
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
-         css
+         css: ["styled components"]
       },
       backEnd: {
          js: ["Node", "Express"]
