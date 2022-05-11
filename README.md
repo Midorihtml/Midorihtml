@@ -13,7 +13,7 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 💁‍♂️¿Quieres saber más? 
 
 🫰¡Contáctame!
-
+<p align='center'>
 <a href='https://wa.me/5491122532394' target="_blank" >
     <img width='10%' src='./assets/contact/wssp.png' alt='whatsapp'/>
 </a>
@@ -23,7 +23,7 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 <a href='https://www.linkedin.com/in/guillermo-fernandez-villarreal/' target="_blank">
     <img width='10%' src='./assets/contact/linkedin.png'/>
 </a>
-
+</p>
 ## :star: Languages and Tools:
 
 <p>
