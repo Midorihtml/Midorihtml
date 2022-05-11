@@ -14,13 +14,23 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 
 🫰¡Contáctame!
 
-wsp: +541122532394
-e-mail: uhgl33@gmail.com
+<a href='https://wa.me/5491122532394'><img src='./assets/contact/wssp.png'/></a>
+<a mailto='uhgl33@gmail.com'><img src='./assets/contact/gmail'/></a> 
+<a><img src='./assets/contact/linkedin.png'/></a>
 
 ## :star: Languages and Tools:
 
 <p>
   <img src='./assets/icons_tecnologies/html.png'>
+  <img src='./assets/icons_tecnologies/css.png'>
+  <img src='./assets/icons_tecnologies/js.png'>
+  <img src='./assets/icons_tecnologies/npm.png'>
+  <img src='./assets/icons_tecnologies/react.png'>
+  <img src='./assets/icons_tecnologies/redux.png'>
+  <img src='./assets/icons_tecnologies/nodejs.png'>
+  <img src='./assets/icons_tecnologies/postgres.png'>
+  <img src='./assets/icons_tecnologies/express.png'>
+  <img src='./assets/icons_tecnologies/sequelize.png'>
 </p>
 
 &nbsp;
