@@ -14,23 +14,29 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 
 🫰¡Contáctame!
 
-<a href='https://wa.me/5491122532394'><img src='./assets/contact/wssp.png'/></a>
-<a href='mailto:uhgl33@gmail.com'><img src='./assets/contact/gmail.png'/></a> 
-<a href='https://www.linkedin.com/in/guillermo-fernandez-villarreal/'><img src='./assets/contact/linkedin.png'/></a>
+<a target="_blank" href='https://wa.me/5491122532394'>
+    <img width='10%' src='./assets/contact/wssp.png' alt='whatsapp'/>
+</a>
+<a target="_blank" href='mailto:uhgl33@gmail.com'>
+    <img width='10%' src='./assets/contact/gmail.png' alt='gmail'/>
+</a> 
+<a target="_blank" href='https://www.linkedin.com/in/guillermo-fernandez-villarreal/'>
+    <img width='10%' src='./assets/contact/linkedin.png'/>
+</a>
 
 ## :star: Languages and Tools:
 
 <p>
-  <img src='./assets/icons_tecnologies/html.png'>
-  <img src='./assets/icons_tecnologies/css.png'>
-  <img src='./assets/icons_tecnologies/js.png'>
-  <img src='./assets/icons_tecnologies/npm.png'>
-  <img src='./assets/icons_tecnologies/react.png'>
-  <img src='./assets/icons_tecnologies/redux.png'>
-  <img src='./assets/icons_tecnologies/nodejs.png'>
-  <img src='./assets/icons_tecnologies/postgres.png'>
-  <img src='./assets/icons_tecnologies/express.png'>
-  <img src='./assets/icons_tecnologies/sequelize.png'>
+  <img alt='html' src='./assets/icons_tecnologies/html.png'>
+  <img alt='css'  src='./assets/icons_tecnologies/css.png'>
+  <img alt='javascript'  src='./assets/icons_tecnologies/js.png'>
+  <img alt='npm'  src='./assets/icons_tecnologies/npm.png'>
+  <img alt='react'  src='./assets/icons_tecnologies/react.png'>
+  <img alt='redux'  src='./assets/icons_tecnologies/redux.png'>
+  <img alt='nodejs'  src='./assets/icons_tecnologies/nodejs.png'>
+  <img alt='postgresSql'  src='./assets/icons_tecnologies/postgres.png'>
+  <img alt='express'  src='./assets/icons_tecnologies/express.png'>
+  <img alt='sequelize'  src='./assets/icons_tecnologies/sequelize.png'>
 </p>
 
 &nbsp;
