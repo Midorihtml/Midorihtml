@@ -13,30 +13,32 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 💁‍♂️¿Quieres saber más? 
 
 🫰¡Contáctame!
-<p align='center'>
+<p>
 <a href='https://wa.me/5491122532394' target="_blank" >
-    <img width='10%' src='./assets/contact/wssp.png' alt='whatsapp' margin='0 10px'/>
+    <img width='10%' src='./assets/contact/wssp.png' alt='whatsapp'/>
 </a>
 <a href='mailto:uhgl33@gmail.com' target="_blank">
-    <img width='10%' src='./assets/contact/gmail.png' alt='gmail' margin='0 10px'/>
+    <img width='10%' src='./assets/contact/gmail.png' alt='gmail'/>
 </a> 
 <a href='https://www.linkedin.com/in/guillermo-fernandez-villarreal/' target="_blank">
-    <img width='10%' src='./assets/contact/linkedin.png' margin='0 10px'/>
+    <img width='10%' src='./assets/contact/linkedin.png'/>
 </a>
 </p>
+&nbsp;
+
 ## :star: Languages and Tools:
 
 <p>
-  <img alt='html' src='./assets/icons_tecnologies/html.png'>
-  <img alt='css'  src='./assets/icons_tecnologies/css.png'>
-  <img alt='javascript'  src='./assets/icons_tecnologies/js.png'>
-  <img alt='npm'  src='./assets/icons_tecnologies/npm.png'>
-  <img alt='react'  src='./assets/icons_tecnologies/react.png'>
-  <img alt='redux'  src='./assets/icons_tecnologies/redux.png'>
-  <img alt='nodejs'  src='./assets/icons_tecnologies/nodejs.png'>
-  <img alt='postgresSql'  src='./assets/icons_tecnologies/postgres.png'>
-  <img alt='express'  src='./assets/icons_tecnologies/express.png'>
-  <img alt='sequelize'  src='./assets/icons_tecnologies/sequelize.png'>
+  <img alt='html' src='./assets/icons_tecnologies/html.png' width='15%'>
+  <img alt='css'  src='./assets/icons_tecnologies/css.png' width='15%'>
+  <img alt='javascript'  src='./assets/icons_tecnologies/js.png' width='15%'>
+  <img alt='npm'  src='./assets/icons_tecnologies/npm.png' width='15%'>
+  <img alt='react'  src='./assets/icons_tecnologies/react.png' width='15%'>
+  <img alt='redux'  src='./assets/icons_tecnologies/redux.png' width='15%'>
+  <img alt='nodejs'  src='./assets/icons_tecnologies/nodejs.png' width='15%'>
+  <img alt='postgresSql'  src='./assets/icons_tecnologies/postgres.png' width='15%'>
+  <img alt='express'  src='./assets/icons_tecnologies/express.png' width='15%'>
+  <img alt='sequelize'  src='./assets/icons_tecnologies/sequelize.png' width='15%'>
 </p>
 
 &nbsp;
