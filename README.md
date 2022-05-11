@@ -14,13 +14,13 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 
 🫰¡Contáctame!
 <p align='center'>
-<a href='https://wa.me/5491122532394' target="_blank" >
+<a href='https://wa.me/5491122532394' target="_blank"  margin='5%'>
     <img width='10%' src='./assets/contact/wssp.png' alt='whatsapp'/>
 </a>
-<a href='mailto:uhgl33@gmail.com' target="_blank">
+<a href='mailto:uhgl33@gmail.com' target="_blank" margin='5%'>
     <img width='10%' src='./assets/contact/gmail.png' alt='gmail'/>
 </a> 
-<a href='https://www.linkedin.com/in/guillermo-fernandez-villarreal/' target="_blank">
+<a href='https://www.linkedin.com/in/guillermo-fernandez-villarreal/' target="_blank" margin='5%'>
     <img width='10%' src='./assets/contact/linkedin.png'/>
 </a>
 </p>
