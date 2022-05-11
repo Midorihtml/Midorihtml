@@ -1,5 +1,6 @@
 <code><img src='./assets/background/1649368138600.png'></code>
-### Hola Soy Guillermo 👋
+<h1 align='center'>### Full Stack Developer 🦊 from Argentina to 🌎</h1>
+
 
 😁¿Quieres saber sobre mi?
 Soy un Desarrollador web full stack, con orientación al front-end. Con la capacidad de realizar proyectos pensando siempre en la modularización y escalabilidad de los mismos. 
