@@ -15,7 +15,7 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
 🫰¡Contáctame!
 
 <a href='https://wa.me/5491122532394'><img src='./assets/contact/wssp.png'/></a>
-<a mailto='uhgl33@gmail.com'><img src='./assets/contact/gmail'/></a> 
+<a mailto='uhgl33@gmail.com'><img src='./assets/contact/gmail.png'/></a> 
 <a><img src='./assets/contact/linkedin.png'/></a>
 
 ## :star: Languages and Tools:
