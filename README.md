@@ -85,9 +85,13 @@ const implemented = {
 </p>
 
 ### colaborators
-##### front
-##### back
-<a href='https://github.com/jparaducha' target='_blank'><p>jparaducha</p></a>
+#### front
+<a href='https://github.com/tenhitokiri' target='_blank'><p>Christian Mejia</p></a>
+<a href='https://github.com/juangoicochea' target='_blank'><p>Juan Carlos Goicochea</p></a>
+#### back
+<a href='https://github.com/jparaducha' target='_blank'><p>Juan Paraducha</p></a>
+<a href='https://github.com/DeLaColinaSalvador' target='_blank'><p>Salvador Alejandro de la Colina</p></a>
+<a href='https://github.com/davidbau22' target='_blank'><p>David Augusto Bautista</p></a>
 
 ```javascript
 const implemented = {
