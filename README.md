@@ -1,5 +1,5 @@
 <code><img src='./assets/background/1649368138600.png'></code>
-<h1 align='center'>### Full Stack Developer 🦊 from Argentina to 🌎</h1>
+<h1 align='center'>Full Stack Web Developer 🦊 from Argentina to 🌎</h1>
 
 
 😁¿Quieres saber sobre mi?
@@ -35,13 +35,40 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
   <img alt='javascript'  src='./assets/icons_tecnologies/js.png' width='15%'>
   <img alt='npm'  src='./assets/icons_tecnologies/npm.png' width='15%'>
   <img alt='react'  src='./assets/icons_tecnologies/react.png' width='15%'>
-  <p align='center'>
+</p>
+<p align='center'>
   <img alt='redux'  src='./assets/icons_tecnologies/redux.png' width='15%'>
   <img alt='nodejs'  src='./assets/icons_tecnologies/nodejs.png' width='15%'>
   <img alt='postgresSql'  src='./assets/icons_tecnologies/postgres.png' width='15%'>
   <img alt='express'  src='./assets/icons_tecnologies/express.png' width='15%'>
   <img alt='sequelize'  src='./assets/icons_tecnologies/sequelize.png' width='15%'>
-  </p>
 </p>
 
 &nbsp;
+
+## :pushpin: My proyects
+
+#### Pokeapi
+
+<p align='center'>
+  <img alt='pokemon' src='./assets/proyects/pokeapi1.png' width='33%'>
+  <img alt='pokemon'  src='./assets/proyects/pokeapi2.png' width='33%'>
+  <img alt='pokemon'  src='./assets/proyects/pokeapi3.png' width='33%'>
+</p>
+
+```javascript
+const implemented = {
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["PostgreSQL"],
+   },
+};
+```
+
+
