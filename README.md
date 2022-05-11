@@ -34,7 +34,7 @@ Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a H
   <img alt='javascript'  src='./assets/icons_tecnologies/js.png' width='15%'>
   <img alt='npm'  src='./assets/icons_tecnologies/npm.png' width='15%'>
   <img alt='react'  src='./assets/icons_tecnologies/react.png' width='15%'>
-  <p>
+  <p align='center'>
   <img alt='redux'  src='./assets/icons_tecnologies/redux.png' width='15%'>
   <img alt='nodejs'  src='./assets/icons_tecnologies/nodejs.png' width='15%'>
   <img alt='postgresSql'  src='./assets/icons_tecnologies/postgres.png' width='15%'>
