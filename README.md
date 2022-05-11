@@ -1,24 +1,26 @@
 <code><img src='./assets/background/1649368138600.png'></code>
 ### Hola Soy Guillermo 👋
 
+😁¿Quieres saber sobre mi?
+Soy un Desarrollador web full stack, con orientación al front-end. Con la capacidad de realizar proyectos pensando siempre en la modularización y escalabilidad de los mismos. 
+
+☺️¿Cuál es mi diferencial?
+Tengo el gusto de hacer alarde de mi capacidad de resolución de problemas, dinamismo y proactividad. Pero sobre todo de una curiosidad insaciable, al igual que mis deseos de seguir aprendiendo y formándome en el hermoso mundo IT.
+
+👨‍💻¿Mi Historia laboral?
+Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a Henry donde actualmente me encuentro cursando el bootcamp, donde he podido desarrollar habilidades técnicas pero también sociales como developer.
+
+💁‍♂️¿Quieres saber más? 
+
+🫰¡Contáctame!
+
+wsp: +541122532394
+e-mail: uhgl33@gmail.com
 
 ## :star: Languages and Tools:
 
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
-  <br />
+  <img src='./icons_tecnologies/html.png'>
 </p>
 
 &nbsp;
