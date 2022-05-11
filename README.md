@@ -1,4 +1,4 @@
-<code><img src='https://www.petdarling.com/wp-content/uploads/2021/01/cachorros.jpg'></code>
+<code><img src='./assets/background/1649368138600.png'></code>
 ### Hola Soy Guillermo 👋
 
 
