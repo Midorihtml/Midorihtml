@@ -20,7 +20,7 @@ e-mail: uhgl33@gmail.com
 ## :star: Languages and Tools:
 
 <p>
-  <code><img src='./icons_tecnologies/html.png'></code>
+  <img src='./assets/icons_tecnologies/html.png'>
 </p>
 
 &nbsp;
