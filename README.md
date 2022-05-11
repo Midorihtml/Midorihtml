@@ -86,11 +86,11 @@ const implemented = {
 
 ### colaborators
 #### front
-<a href='https://github.com/tenhitokiri' target='_blank'><p>Christian Mejia</p></a>
+<a href='https://github.com/tenhitokiri' target='_blank'><span>Christian Mejia |</span></a>
 <a href='https://github.com/juangoicochea' target='_blank'><span>Juan Carlos Goicochea</span></a>
 #### back
-<a href='https://github.com/jparaducha' target='_blank'><span>Juan Paraducha</span></a>
-<a href='https://github.com/DeLaColinaSalvador' target='_blank'><span>Salvador Alejandro de la Colina</span></a>
+<a href='https://github.com/jparaducha' target='_blank'><span>Juan Paraducha |</span></a>
+<a href='https://github.com/DeLaColinaSalvador' target='_blank'><span>Salvador Alejandro de la Colina |</span></a>
 <a href='https://github.com/davidbau22' target='_blank'><span>David Augusto Bautista</span></a>
 
 ```javascript
