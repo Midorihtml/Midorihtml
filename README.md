@@ -71,7 +71,7 @@ const implemented = {
 };
 ```
 
-### Hubazar eccomerce
+### Hubazar ecommerce
 
 <p align='center'>
   <img alt='pokemon' src='./assets/proyects/home.png' width='33%'>
