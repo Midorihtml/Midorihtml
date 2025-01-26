@@ -3,13 +3,13 @@
 
 
 😁¿Quieres saber sobre mi?
-Soy un Desarrollador web full stack, con orientación al front-end. Con la capacidad de realizar proyectos pensando siempre en la modularización y escalabilidad de los mismos. 
+Soy un Desarrollador web full stack. Con la capacidad de realizar proyectos pensando siempre en la modularización y escalabilidad de los mismos. 
 
 ☺️¿Cuál es mi diferencial?
 Tengo el gusto de hacer alarde de mi capacidad de resolución de problemas, dinamismo y proactividad. Pero sobre todo de una curiosidad insaciable, al igual que mis deseos de seguir aprendiendo y formándome en el hermoso mundo IT.
 
 👨‍💻¿Mi Historia laboral?
-Mi experiencia es mayoritariamente acádemica, tengo el agrado de pertenecer a Henry donde actualmente me encuentro cursando el bootcamp, donde he podido desarrollar habilidades técnicas pero también sociales como developer.
+Cuento con más de 2 años dentro del rubro. En dónde he resuelto tareas tanto de front-end como de back-end. Utilizando tecnologías como html, css, sass, bootstrap, javascript y reactjs para el front y nodejs, expressjs, php y mysql para el backend en la implementación de webservices y apis rest. También he trabajado con docker y microservicios. Y con git, por supuesto, para el manejo de versiones y trabajo colaborativo.
 
 💁‍♂️¿Quieres saber más? 
 
